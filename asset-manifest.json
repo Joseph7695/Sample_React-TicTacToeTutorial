@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sample_React-TicTacToeTutorial/static/css/main.d2c689ec.chunk.css",
+    "main.js": "/Sample_React-TicTacToeTutorial/static/js/main.5819140d.chunk.js",
+    "main.js.map": "/Sample_React-TicTacToeTutorial/static/js/main.5819140d.chunk.js.map",
+    "runtime-main.js": "/Sample_React-TicTacToeTutorial/static/js/runtime-main.4e40758a.js",
+    "runtime-main.js.map": "/Sample_React-TicTacToeTutorial/static/js/runtime-main.4e40758a.js.map",
+    "static/js/2.be245189.chunk.js": "/Sample_React-TicTacToeTutorial/static/js/2.be245189.chunk.js",
+    "static/js/2.be245189.chunk.js.map": "/Sample_React-TicTacToeTutorial/static/js/2.be245189.chunk.js.map",
+    "index.html": "/Sample_React-TicTacToeTutorial/index.html",
+    "precache-manifest.60a1c9f9c0027e4e1d183a8acb47c68f.js": "/Sample_React-TicTacToeTutorial/precache-manifest.60a1c9f9c0027e4e1d183a8acb47c68f.js",
+    "service-worker.js": "/Sample_React-TicTacToeTutorial/service-worker.js",
+    "static/css/main.d2c689ec.chunk.css.map": "/Sample_React-TicTacToeTutorial/static/css/main.d2c689ec.chunk.css.map",
+    "static/js/2.be245189.chunk.js.LICENSE.txt": "/Sample_React-TicTacToeTutorial/static/js/2.be245189.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e40758a.js",
+    "static/js/2.be245189.chunk.js",
+    "static/css/main.d2c689ec.chunk.css",
+    "static/js/main.5819140d.chunk.js"
+  ]
+}
