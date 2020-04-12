@@ -55,7 +55,7 @@ ul {
   stroke-width: 20;
   stroke-dasharray: 647;
   stroke-dashoffset: 647;
-  animation: O-circle 2s;
+  animation: O-circle 0.5s;
   animation-fill-mode: forwards;
 }
 
@@ -64,7 +64,7 @@ ul {
   stroke-width: 20;
   stroke-dasharray: 282.84;
   stroke-dashoffset: 282.84;
-  animation: X-draw 2s;
+  animation: X-draw 0.5s;
   animation-fill-mode: forwards;
 }
 
@@ -73,8 +73,8 @@ ul {
   stroke-width: 20;
   stroke-dasharray: 282.84;
   stroke-dashoffset: 282.84;
-  animation: X-draw 2s;
-  animation-delay: 1s;
+  animation: X-draw 0.5s;
+  animation-delay: 0.25s;
   animation-fill-mode: forwards;
 }
 
